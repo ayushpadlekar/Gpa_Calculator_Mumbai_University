@@ -1,13 +1,18 @@
 # MU GPA Calculator Android App
-### ( MU = Mumbai University )
 
 <div align="left">
-    <img src="Screenshots/Pedalcity Logo.png" alt="Pedalcity_Logo" width="300">
+    <img src="Screenshots/Mu_Gpa_Logo.png" alt="App Logo" height="100">
 </div>
 
-Pedalcity is a bicycle sharing app designed to improve urban mobility. It allows people to access bicycle rental services directly from their phones. Users can Locate bicycle points on Map, Choose bicycles from various options like MTB, Cargo, Geared, Electric, etc and Rent rides in real-time seamlessly. Users can also manage their Account profile, Add Money in their Wallet and see Transactions.
+**( MU = Mumbai University )**
 
-<p><b> Download & test the App ⬇️</b> </br>
+A GPA calculator Android app to calculate gpa based on Mumbai University Results. </br>
+- The app has easy to use & modern UI design.
+- You can calculate the CGPA, SGPA by entering the values.
+- You can view Bar Graph Chart for better visualization of data.
+- You can Save the calculated results and view it anytime.
+
+<p><b> Download & test the App in your phone ⬇️</b> </br>
     https://github.com/ayushpadlekar/Gpa_Calculator_Mumbai_University/releases/tag/v0.0.1 </p>
 
 </br>
