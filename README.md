@@ -36,73 +36,16 @@ A GPA calculator Android app to calculate gpa based on Mumbai University Results
 
 ## Screenshots 📸
 
-**• Splash, Onboarding & Sign Up :**
+CGPA Screen &nbsp;|&nbsp; CGPA Screen with Input & Results &nbsp;|&nbsp; Saved Screen &nbsp;|&nbsp; SGPA Screen
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Splash, Onboarding & Signup/Splash.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding1.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding2.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding3.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Splash, Onboarding & Signup/Onboarding4.png" style="flex: 1 0 auto; width: 15%;">
-</div>
-
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Splash, Onboarding & Signup/SignIn google.png" style="flex: 1 0 auto; width: 15%;">
-  <img src="Screenshots/Splash, Onboarding & Signup/SignIn google choose acc.png" style="flex: 1 0 auto; width: 15%;">
-</div>
-</br>
-
-**• Home :**
-
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Home/Home Main.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/CGPA_Screen1.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Home/Home Satellite.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/CGPA_Screen2.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Home/Home Bottom Sheet.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/Saved_Screen.png" style="flex: 1 0 auto; width: 15%;">
     &nbsp;
-  <img src="Screenshots/Home/Scan QR.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Home/Enter Number Dialog.png" style="flex: 1 0 auto; width: 15%;">
-</div>
-</br>
-
-**• Choose & Unlock Bicycle :**
-
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Choose & Unlock Bicycle/Choose Bicycle.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Choose & Unlock Bicycle/Bicycle Numbers.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Choose & Unlock Bicycle/Reconfirm Number.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Choose & Unlock Bicycle/Bicycle Unlock Anim.png" style="flex: 1 0 auto; width: 15%;">
-</div>
-</br>
-
-**• Bicycle Rental :**
-
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Bicycle Rental/Ongoing Ride.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Bicycle Rental/Ongoing Ride Home.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Bicycle Rental/End Ride Dialog.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Bicycle Rental/Ride Summary.png" style="flex: 1 0 auto; width: 15%;">
-</div>
-</br>
-
-**• Wallet & Profile :**
-
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Screenshots/Wallet, Profile, Exit dialog/Wallet screen.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Wallet, Profile, Exit dialog/Wallet Add Money.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Wallet, Profile, Exit dialog/Wallet Transactions.png" style="flex: 1 0 auto; width: 15%;">
-    &nbsp;
-  <img src="Screenshots/Wallet, Profile, Exit dialog/Profile screen.png" style="flex: 1 0 auto; width: 15%;">
+  <img src="Screenshots/SGPA_Screen.png" style="flex: 1 0 auto; width: 15%;">
 </div>
 
 </br>
@@ -156,6 +99,6 @@ A GPA calculator Android app to calculate gpa based on Mumbai University Results
 ### • Exploring the App / Walkthrough ⬇️
 &nbsp; &nbsp; Sign-Up, Map, Bicycle Options, Profile & Wallet
 
-https://github.com/user-attachments/assets/ed979c4f-8407-4f6e-b5db-f1ac0014d36a
+https://github.com/user-attachments/assets/16ab6b86-8b41-41cb-a145-d2f303678418
 
 </br>
