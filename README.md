@@ -1,36 +1,20 @@
 # MU GPA Calculator Android App
 
+| &nbsp; App Logo &nbsp; | &nbsp; MU = 'Mumbai University'
+
 <div align="left">
     <img src="Screenshots/Mu_Gpa_Logo.png" alt="App Logo" height="100">
-</div>
+</div> </br>
 
-**( MU = Mumbai University )**
-
-A GPA calculator Android app to calculate gpa based on Mumbai University Results. </br>
-- The app has easy to use & modern UI design.
-- You can calculate the CGPA, SGPA by entering the values.
-- You can view Bar Graph Chart for better visualization of data.
-- You can Save the calculated results and view it anytime.
+A GPA calculator Android app to calculate gpa based on Mumbai University Results.
+- Easy to use & modern UI design.
+- Calculate the CGPA, SGPA by entering the values.
+- View Bar Graph Chart for better visualization of data.
+- Save the calculated results and view it anytime.
+</br>
 
 <p><b> Download & test the App in your phone ⬇️</b> </br>
     https://github.com/ayushpadlekar/Gpa_Calculator_Mumbai_University/releases/tag/v0.0.1 </p>
-
-</br>
-
-## Utilized Technologies 🛠️
- - **Programming:** Jetpack Compose & Kotlin
-
- - **APIs and Libraries:**
-   - [**Google Maps API**](https://developers.google.com/maps/documentation/android-sdk) : for Location, Maps, Markers, Info window & Satellite view
-   - [**Open Weather API**](https://openweathermap.org/api) : to get current weather updates in a particular area (in this app - Mumbai)
-   - [**World Time Api**](https://worldtimeapi.org) : to fetch Universal Timestamps independently
-   - [**Firebase**](https://firebase.google.com) : for Authentication, Realtime Database, Storage & Analytics
-   - [**Async-Http Client**](https://github.com/android-async-http/android-async-http) : to make asynchronous HTTP requests and handle Json responses
-   - [**Zxing**](https://github.com/zxing/zxing) : for QR code scanning with camera
-   - [**Lottie**](https://lottiefiles.com) : for Animations throughout the app
-   - [**Picasso**](https://github.com/square/picasso) : for easy Image Loading and Caching.
-
- - **Development Tools:** Android Studio, Figma, Github
 
 </br>
 
@@ -50,54 +34,45 @@ CGPA Screen &nbsp;|&nbsp; CGPA Screen with Input & Results &nbsp;|&nbsp; Saved S
 
 </br>
 
+## Utilized Technologies 🛠️
+
+ - **Programming :** Jetpack Compose & Kotlin
+
+ - **Architecture & Database :**
+   
+   - **MVVM Pattern** for a clean separation of UI and data handling.
+   - **Dagger Hilt** dependency injection for efficient dependency management.
+   - **Live-Data** used to update the UI based on the database state.
+   - **View-Model** to handle UI related data and maintain state across configuration changes.
+   - **Room** Database for local data storage and retrieval.
+
+ - **Development Tools :** Android Studio, Figma, Github
+
+</br>
+
 ## Features 💡
 
 1. **User Interface**
-    - Thematic Colors, Fonts & Backgrounds
-    - Splash Screen Animations & Onboarding Screens
-    - Bottom Navigation Bar to navigate between various fragments smoothly
+    - Intuitive design with Material3 components for a modern look.
+    - Thematic Colors, Fonts & Backgrounds.
+    - Bottom Navigation Bar for seamless navigation between CGPA, SGPA, and Saved screens.
 
-2. **User Authentication and Details**
-    - Google Sign-In with Firebase Authentication for secure and fast user login
-    - Getting details of user like - Name, Phone, Birth date, Photo and storing it in Firebase Database
+2. **CGPA Calculation**
+    - Input fields for 8 semesters with validation for decimal values from 1.00 to 10.00.
+    - 'Calculate' button computes the CGPA and displays result along with the percentage.
+    - 'Reset' button to clear all entered values for a fresh start.
 
-3. **Map & Nearby Bicycle Points**
-    - Integrated Google Map with Satellite view and GPS locations
-    - Added custom markers on map as Bicycle Points
-    - Info Window showing information of each bicycle point (showed on clicking any marker)
-    - 'Get Directions' Button redirecting to Gmaps app showing route from user location to Bicycle point
+3. **Bar Graph Chart**
+    - Integrated Bar Graph chart to visually represent semester-wise SGPA values.
+    - To provide users with clear insights into their academic progress over time.
 
-4. **Current Weather Info**
-    - Displayed live weather information in a small view on the top right corner
-    - Current Temperature, current condition and it's weather icon is showed
-
-5. **Bicycle Options**
-    - Sponsored Bicycles category with options from many different bicyle brands
-    - Multiple bicycle types like MTB, Geared, Electric, Road or Cargo
-    - Card Flip Views to show all the information of each bicycle
-
-6. **Rent A Bicycle**
-    - Bottom Sheet with 3 options - Scan QR Code, Enter Bicycle Number & Choose Bicycle Options
-    - Bicycle Unlocks and Ride starts only when all the permissions are ON, especially bluetooth
-    - The Rental details and bicycle Status is then updated in firebase database
-
-7. **Ride Tracking & Updates**
-    - Real-Time ride tracking with Chronometer timer for duration
-    - World Time Api for syncing time irrespective of user's device time
-    - Live Amount updates on calculation based on ride duration and bicycle rate per min
-    - Ending ride updates rental details like start-time, end-time, duration, amount and wallet balance in Firebase
-
-7. **Wallet**
-    - Simulated Wallet features with Firebase
-    - Add or withdraw money in wallet balance or pay Security deposit
-    - Show all transactions with timestamp and details
+4. **Saving and Viewing Results**
+    - Save calculated CGPA with timestamp for record-keeping.
+    - Expandable cards in LazyColumn for detailed semester scores and calculated results.
 
 </br>
 
 ## Demonstration 📲
-
-### • Exploring the App / Walkthrough ⬇️
-&nbsp; &nbsp; Sign-Up, Map, Bicycle Options, Profile & Wallet
 
 https://github.com/user-attachments/assets/16ab6b86-8b41-41cb-a145-d2f303678418
 
