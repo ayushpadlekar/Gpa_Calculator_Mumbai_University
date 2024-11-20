@@ -1,6 +1,6 @@
 # MU GPA Calculator Android App
 
-| &nbsp; App Logo &nbsp; | &nbsp; MU = 'Mumbai University'
+| &nbsp;App Logo &nbsp; | &nbsp; MU = 'Mumbai University'
 
 <div align="left">
     <img src="Screenshots/Mu_Gpa_Logo.png" alt="App Logo" height="100">
@@ -14,7 +14,12 @@ A GPA calculator Android app to calculate gpa based on Mumbai University Results
 </br>
 
 <p><b> Download & test the App in your phone ⬇️</b> </br>
-    https://github.com/ayushpadlekar/Gpa_Calculator_Mumbai_University/releases/tag/v0.0.1 </p>
+https://github.com/ayushpadlekar/Gpa_Calculator_Mumbai_University/releases/tag/v0.0.1
+</p>
+
+<p><b> Checkout Design & Prototype on Figma 🖌️</b> </br>
+https://www.figma.com/design/RAAQFzvuHiHZ28Hrnf6kye/CGPA-Calculator-for-MU-Results?node-id=0-1&t=Dnb944nrftSn7qNt-1
+</p>
 
 </br>
 
